@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amkreiner.github.io/static/css/main.9c0e67b7.chunk.css",
+    "main.js": "/amkreiner.github.io/static/js/main.01852fce.chunk.js",
+    "main.js.map": "/amkreiner.github.io/static/js/main.01852fce.chunk.js.map",
+    "runtime-main.js": "/amkreiner.github.io/static/js/runtime-main.4be2e04c.js",
+    "runtime-main.js.map": "/amkreiner.github.io/static/js/runtime-main.4be2e04c.js.map",
+    "static/js/2.84ade539.chunk.js": "/amkreiner.github.io/static/js/2.84ade539.chunk.js",
+    "static/js/2.84ade539.chunk.js.map": "/amkreiner.github.io/static/js/2.84ade539.chunk.js.map",
+    "static/js/3.2beb4d71.chunk.js": "/amkreiner.github.io/static/js/3.2beb4d71.chunk.js",
+    "static/js/3.2beb4d71.chunk.js.map": "/amkreiner.github.io/static/js/3.2beb4d71.chunk.js.map",
+    "index.html": "/amkreiner.github.io/index.html",
+    "static/css/main.9c0e67b7.chunk.css.map": "/amkreiner.github.io/static/css/main.9c0e67b7.chunk.css.map",
+    "static/js/2.84ade539.chunk.js.LICENSE.txt": "/amkreiner.github.io/static/js/2.84ade539.chunk.js.LICENSE.txt",
+    "static/media/profile-pic-temp.5b69f237.png": "/amkreiner.github.io/static/media/profile-pic-temp.5b69f237.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4be2e04c.js",
+    "static/js/2.84ade539.chunk.js",
+    "static/css/main.9c0e67b7.chunk.css",
+    "static/js/main.01852fce.chunk.js"
+  ]
+}
